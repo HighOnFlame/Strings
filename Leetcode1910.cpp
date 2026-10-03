@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 string removeOccurrences(string s, string part){
@@ -7,6 +7,7 @@ string removeOccurrences(string s, string part){
     }
     return s;
 }
+
 
 int main()
 {
